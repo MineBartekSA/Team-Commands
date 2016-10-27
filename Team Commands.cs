@@ -8,7 +8,7 @@ using TerrariaApi.Server;
 using Newtonsoft.Json;
 
 namespace TeamCommands {
-    [ApiVersion(1, 17)]
+    [ApiVersion(1, 25)]
     public class TeamCommands : TerrariaPlugin {
         public TeamCommands(Main game) : base(game) {
         }
@@ -18,13 +18,13 @@ namespace TeamCommands {
             });
         }
         public override Version Version {
-            get { return new Version("1.0.1"); }
+            get { return new Version("1.0.2"); }
         }
         public override string Name {
             get { return "Team Commands"; }
         }
         public override string Author {
-            get { return "GameRoom"; }
+            get { return "GameRoom/MineBartekSA"; }
         }
         public override string Description {
             get { return "Runs commands to entire team."; }
@@ -90,7 +90,7 @@ namespace TeamCommands {
                             if (player != null && (team == player.Team || team == 5) && (!player.Group.HasPermission(Permissions.immunetoban) || e.Player.RealPlayer)) {
                                 var user = TShock.Users.GetUserByID(player.Index);
                                 var knownIps = JsonConvert.DeserializeObject<List<string>>(user.KnownIps);
-                                TShock.Bans.AddBan(knownIps.Last(), user.Name, user.UUID, reason, false, e.Player.UserAccountName);
+                                TShock.Bans.AddBan(knownIps.Last(), user.Name, user.UUID, reason, false, e.Player.Name);
                             }
                         TShock.Utils.Broadcast(string.Format("{0} was banned for '{1}'", TeamIDToColor(team), reason.ToLower()), Color.Green);
                     }

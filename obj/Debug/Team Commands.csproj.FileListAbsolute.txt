@@ -1,0 +1,11 @@
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\Team Commands.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\Team Commands.pdb
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\TerrariaServer.exe
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\TShockAPI.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\MySql.Data.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\HttpServer.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\BCrypt.Net.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\obj\Debug\Team Commands.dll
+C:\Users\SKOCZEN\Source\Repos\Team-Commands\obj\Debug\Team Commands.pdb
