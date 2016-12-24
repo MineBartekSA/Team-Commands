@@ -6,9 +6,10 @@ using TShockAPI;
 using Terraria;
 using TerrariaApi.Server;
 using Newtonsoft.Json;
+using Microsoft.Xna.Framework;
 
 namespace TeamCommands {
-    [ApiVersion(1, 25)]
+    [ApiVersion(2, 00)]
     public class TeamCommands : TerrariaPlugin {
         public TeamCommands(Main game) : base(game) {
         }
@@ -18,7 +19,7 @@ namespace TeamCommands {
             });
         }
         public override Version Version {
-            get { return new Version("1.0.2"); }
+            get { return new Version("2.0.0"); }
         }
         public override string Name {
             get { return "Team Commands"; }

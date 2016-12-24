@@ -1,3 +1,16 @@
 C:\Users\SKOCZEN\Source\Repos\Team-Commands\obj\Release\Team Commands.csprojResolveAssemblyReference.cache
 C:\Users\SKOCZEN\Source\Repos\Team-Commands\obj\Release\Team Commands.dll
 C:\Users\SKOCZEN\Source\Repos\Team-Commands\obj\Release\Team Commands.pdb
+C:\Users\Acer\Source\Repos\Team-Commands\obj\Release\Team Commands.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Source\Repos\Team-Commands\obj\Release\Team Commands.dll
+C:\Users\Acer\Source\Repos\Team-Commands\obj\Release\Team Commands.pdb
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\Team Commands.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\Team Commands.pdb
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\Newtonsoft.Json.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\OTAPI.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\TerrariaServer.exe
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\TShockAPI.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\MySql.Data.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\HttpServer.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\BCrypt.Net.dll
+C:\Users\Acer\Source\Repos\Team-Commands\bin\Release\Mono.Data.Sqlite.dll
